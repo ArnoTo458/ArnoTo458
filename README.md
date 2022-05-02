@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnoTo458.
-- 👀 I’m interested in racing cars, cooking and electronics.
+- 👀 I’m interested in racing cars (see picture 🙃), cooking and electronics.
 - 🌱 I’m currently learning GitHub to use it in my job in automotive engineering.
 - 💞️ I’m looking to collaborate on \<your project name>.
 - 📫 You can reach me on GitHub and Discord (@Arno To#3828).
